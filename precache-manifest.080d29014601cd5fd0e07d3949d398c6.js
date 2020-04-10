@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc717d59c414bd359d15ac15afbec088",
+    "revision": "af6f8a87967569861a60f5829a73e739",
     "url": "/jpippin/index.html"
   },
   {
-    "revision": "d8b75a279288e873a05d",
+    "revision": "8f2cb4c6b49cab3f6c01",
     "url": "/jpippin/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jpippin/static/js/2.98ac74b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d8b75a279288e873a05d",
-    "url": "/jpippin/static/js/main.8b9da640.chunk.js"
+    "revision": "8f2cb4c6b49cab3f6c01",
+    "url": "/jpippin/static/js/main.f6b3998c.chunk.js"
   },
   {
     "revision": "0ab2658e1877086b4221",
